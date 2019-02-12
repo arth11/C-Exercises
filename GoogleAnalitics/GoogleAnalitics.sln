@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleAnalitics", "GoogleAnalitics\GoogleAnalitics.csproj", "{AAE603E5-7AA1-4823-A098-0CACC167CCAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAE603E5-7AA1-4823-A098-0CACC167CCAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAE603E5-7AA1-4823-A098-0CACC167CCAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAE603E5-7AA1-4823-A098-0CACC167CCAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAE603E5-7AA1-4823-A098-0CACC167CCAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6136529-322C-45AC-9071-3B1B1B7B4A1A}
+	EndGlobalSection
+EndGlobal

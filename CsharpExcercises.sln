@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fibonacci", "Fibonacci\Fibo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "First non-repeating character", "First non-repeating character\First non-repeating character.csproj", "{644A125D-6460-46C7-AC24-F5DF9C5A761B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleAnalitics", "GoogleAnalitics\GoogleAnalitics\GoogleAnalitics.csproj", "{AAE603E5-7AA1-4823-A098-0CACC167CCAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{644A125D-6460-46C7-AC24-F5DF9C5A761B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{644A125D-6460-46C7-AC24-F5DF9C5A761B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{644A125D-6460-46C7-AC24-F5DF9C5A761B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAE603E5-7AA1-4823-A098-0CACC167CCAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAE603E5-7AA1-4823-A098-0CACC167CCAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAE603E5-7AA1-4823-A098-0CACC167CCAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAE603E5-7AA1-4823-A098-0CACC167CCAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
